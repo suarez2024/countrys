@@ -1,0 +1,20 @@
+.nav {
+  background-color: rgba(2, 14, 31, 0.911);
+}
+
+.sidebar{
+  background-color: rgba(188, 217, 255, 0.685);
+}
+.router{
+  background-color: rgba(238, 242, 247, 0.897);
+}
+
+.content{
+  width: 97%;
+  height: 90%;
+  margin: 10px;
+}
+
+.example-spacer {
+  flex: 1 1 auto;
+}
